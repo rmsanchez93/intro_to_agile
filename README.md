@@ -19,3 +19,5 @@ there was a meeting in 2001 where a bunch of developers came in and came up with
 
 ## what methodologies did we have before? 
 ![Agile vs Waterfall](https://www.seguetech.com/wp-content/uploads/2013/07/segue-blog-waterfall-vs-agile-which-is-right-development-methodology-for-your-project.png)
+
+                         what are some differences you see here??
