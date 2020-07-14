@@ -3,7 +3,6 @@
 
 ## Learning Goals: 
         - [] Define the Agile Methodlogy
-        - [] Describe examples of practicing Agile
         - [] Explain Scrum 
         - [] Set up Trello Board in MVP format 
         
@@ -22,7 +21,16 @@ That is a _lot_ of money going in. Whats the best *software development lifecycl
         
 ## agile manifesto
 [The Agile Manifesto](https://agilemanifesto.org/)
-there was a meeting in 2001 where a bunch of developers came in and came up with another solution to 
+there was a meeting in 2001 where a bunch of developers came up with another solution to how to better work together and what the _rhythm_ should be.
+"In software development, *agile* approaches development requirements and solutions through the collaborative effort of self-organizing and cross-functional teams and their customer/end user" 
+
+
+## Scrum? 
+Scrum is a flavor of Agile. 
+Weekly efficient meetings involving the Scrum Master, Product Lead, Client and Software Dev Team. In these meetings we discuss our product backlog, the point system and where to focus our time. 
+
+
+
 
 
 ## what methodologies did we have before? 
